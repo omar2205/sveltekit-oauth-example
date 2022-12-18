@@ -6,4 +6,15 @@
 	handleSession(page)
 </script>
 
+<nav>
+  <a href="/">Home</a>
+  <a href="/admin">Admin</a>
+</nav>
+
 <slot />
+
+<style>
+	a {
+		text-decoration: none;
+	}
+</style>
