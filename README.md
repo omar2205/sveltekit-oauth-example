@@ -4,7 +4,7 @@ This is a simple example that uses Sveltekit and Lucia Auth. This example has tw
 
 ### Usage
 
-1. Copy `.env.example` to `.env` and update its content
-2. Run `npx prisma db push`
-3. npm i
+1. npm i
+2. Copy `.env.example` to `.env` and update its content
+3. Run `npx prisma db push`
 4. npm dev
